@@ -45,8 +45,10 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a sales da
 Visualization
 # Quantity Distribution Histogram
 - Shows how frequently different quantities occur  
-- Helps identify distribution pattern and skewness  
+- Helps identify distribution pattern and skewness
 
+
+![Quantity Distribution](https://github.com/user-attachments/assets/d6c9d274-ae2e-4b20-84b4-ba32267bb405)
 
 #Tools & Technologies
 - Python  
